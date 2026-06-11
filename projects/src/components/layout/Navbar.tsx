@@ -61,7 +61,7 @@ export default function Navbar() {
           className="flex items-center gap-1.5 hover:opacity-80 transition-opacity"
         >
           <span className="text-lg">💖</span>
-          <span className="font-bold text-warm-text text-sm">哄哄模拟器</span>
+          <span className="font-bold text-red-500 text-sm">哄哄模拟器</span>
         </button>
 
         {/* Center: Leaderboard link */}

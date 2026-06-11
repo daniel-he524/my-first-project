@@ -42,7 +42,7 @@ export default function HomePage() {
     <div className="min-h-screen bg-warm-bg flex flex-col items-center justify-center px-4 py-8 relative">
       {/* 标题区 */}
       <div className="text-center mb-8 animate-fade-in">
-        <h1 className="text-4xl md:text-5xl font-bold text-warm-text mb-3">
+        <h1 className="text-4xl md:text-5xl font-bold text-red-500 mb-3">
           哄哄模拟器
         </h1>
         <p className="text-warm-muted text-lg">
